@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 MODEL_NAME = "gemini-3.6-flash"
-API_KEY = "AQ.Ab8RN6JzJw_ifGjKRexpkwu1KfQ2H-1D6ZLg0naDlzeRT123oQ"
+API_KEY = "enter your key here"
 
 SYSTEM_PROMPT = """You are "FrontendGPT", a specialized frontend development assistant.
 
